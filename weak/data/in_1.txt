@@ -1,0 +1,2 @@
+this is a sample file
+it has two lines and ascii text!
